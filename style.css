@@ -635,6 +635,7 @@ h2 {
     width: 200px;
 }
 
+/* 
 .button-1 > p {
     width: 80px;
     height: 30px;
@@ -651,7 +652,7 @@ h2 {
     background-color: black;
     border-radius: 10%;
     padding-left: 7px;
-}
+} */
 
 .two-buttons {
     display: flex;
@@ -814,7 +815,7 @@ check screen size 55px and 354px
 */
 
 
-@media screen and (min-width: 55px) and (max-width: 354px) {
+@media screen and (max-width: 354px) {
 
     body {
     background-color: #f3a007;
@@ -952,7 +953,7 @@ check screen size 55px and 354px
     width: 200px;
 }
 
-.button-1 > p {
+/* .button-1 > p {
     width: 80px;
     height: 30px;
     border: black solid;
@@ -968,7 +969,7 @@ check screen size 55px and 354px
     background-color: black;
     border-radius: 10%;
     padding-left: 7px;
-}
+} */
 
 .two-buttons {
     display: flex;
@@ -1137,13 +1138,11 @@ h2 {
 
 check this is more important. screen size 355px to 360px 
 
-
-
 */
 
 
 
-@media screen and (min-width: 355px) and (max-width: 360px) {
+@media screen and (max-width: 360px) {
 
     body {
     background-color: #f3a007;
@@ -1281,7 +1280,7 @@ check this is more important. screen size 355px to 360px
     width: 200px;
 }
 
-.button-1 > p {
+/* .button-1 > p {
     width: 80px;
     height: 30px;
     border: black solid;
@@ -1297,7 +1296,7 @@ check this is more important. screen size 355px to 360px
     background-color: black;
     border-radius: 10%;
     padding-left: 7px;
-}
+} */
 
 .two-buttons {
     display: flex;
@@ -1484,7 +1483,7 @@ h2 {
 
 
 
-@media screen and (min-width: 361px) and (max-width: 419px) {
+@media screen and (max-width: 419px) {
 
     body {
     background-color: #f3a007;
@@ -1603,7 +1602,7 @@ h2 {
     width: 200px;
 }
 
-.button-1 > p {
+/* .button-1 > p {
     width: 80px;
     height: 30px;
     border: black solid;
@@ -1619,7 +1618,7 @@ h2 {
     background-color: black;
     border-radius: 10%;
     padding-left: 7px;
-}
+} */
 
 .two-buttons {
     display: flex;
